@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">President</string>
+    <string name="app_name">Who wants to be president?</string>
+    <string name="buttonContinue">Сontinue</string>
+    <string name="buttonNew">New game</string>
+    <string name="buttonStat">My achievements</string>
+    <string name="buttonPolicy">Privacy policy</string>
+    <string name="buttonVip">Get VIP status</string>
 </resources>

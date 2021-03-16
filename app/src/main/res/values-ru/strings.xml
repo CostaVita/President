@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Кто хочет стать президентом</string>
+    <string name="buttonContinue">Продолжить</string>
+    <string name="buttonNew">Новая игра</string>
+    <string name="buttonStat">Мои достижения</string>
+    <string name="buttonPolicy">Политика</string>
+    <string name="buttonVip">Получить VIP статус</string>
+</resources>
